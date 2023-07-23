@@ -1,10 +1,12 @@
 <div align="center">
 <h1>Hi, I'm Wolfi! 👋</h1><br>
 <b>⚡Front-End Developer</b><br>
-💼 <a style="text-decoration:none;" href="https://github.com/FanthStudios">@FanthStudios</a><br>
+<a style="text-decoration:none;" href="https://github.com/Amaifuku">@AmaiFuku</a> <br>
+<a style="text-decoration:none;" href="https://github.com/FanthStudios">@FanthStudios</a> <br>
 <br>
 <b>My Projects</b> 😸<br>
-<a style="text-decoration:none;" href="https://fanthplay.pl">fanthplay.pl</a> <br>
+<a style="text-decoration:none;" href="https://amaifuku.pl">amaifuku.pl</a> <br>
+<a style="text-decoration:none;" href="https://fanthstudios">fanthstudios.pl</a> <br>
 <br>
 Programming is my passion ❤️<br>
     
