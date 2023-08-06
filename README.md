@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Wolfi! 👋</h1><br>
-<b>⚡Front-End Developer</b><br>
+<b>⚡notFront-End Developer</b><br>
 <a style="text-decoration:none;" href="https://github.com/Amaifuku">@AmaiFuku</a> <br>
 <a style="text-decoration:none;" href="https://github.com/FanthStudios">@FanthStudios</a> <br>
 <br>
