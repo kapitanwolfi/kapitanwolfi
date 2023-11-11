@@ -5,6 +5,7 @@
 <a style="text-decoration:none;" href="https://github.com/FanthStudios">@FanthStudios</a> <br>
 <br>
 <b>My Projects</b> 😸<br>
+<a style="text-decoration:none;" href="https://erizzi.pl">erizzi.pl</a> <br>
 <a style="text-decoration:none;" href="https://fanth.pl">fanth.pl</a> <br>
 <a style="text-decoration:none;" href="https://amaifuku.pl">amaifuku.pl</a> <br>
 <a style="text-decoration:none;" href="https://fantasium.pl">fantasium.pl</a> <br>
