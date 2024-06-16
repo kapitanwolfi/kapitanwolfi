@@ -11,7 +11,9 @@
 <a style="text-decoration:none;" href="https://amaifuku.pl">amaifuku.pl</a> <br>
 <a style="text-decoration:none;" href="https://fantasium.pl">fantasium.pl</a> <br>
 <a style="text-decoration:none;" href="https://mpoddany.pl">mpoddany.pl</a> <br>
-<a style="text-decoration:none;" href="https://fanthstudios.pl">fanthstudios.pl</a> <br>
+<a style="text-decoration:none;" href="https://studios.fanth.pl">studios.fanth.pl</a> <br>
+<a style="text-decoration:none;" href="https://sonia.fanth.pl">sonia.fanth.pl</a> <br>
+<a style="text-decoration:none;" href="https://cloud.fanth.pl">cloud.fanth.pl</a> <br>
 
 <br>
 Programming is my passion ❤️<br>
