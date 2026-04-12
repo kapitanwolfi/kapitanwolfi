@@ -4,11 +4,13 @@
 
 [![github](https://img.shields.io/badge/-@DevsJony-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/DevsJony)
 &nbsp;
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DevsJony.DevsJony&left_color=1a1a1a&right_color=555&left_text=visitors)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kapitanwolfi.kapitanwolfi&left_color=1a1a1a&right_color=555&left_text=visitors)
 
-**My Projects** ✨
+**My Projects** 😸
 
 [fanth.pl](https://fanth.pl) · [raidvm.com](https://raidvm.com) · [motionverse.eu](https://motionverse.eu)
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevsJony&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&hide_title=true&hide_rank=true&count_private=true" />
 
 <img src="https://raw.githubusercontent.com/wolfiwaifu/wolfiwaifu/3a09a00445db4952b5eddb4d39b52e3d1aa562ef/snejk.svg" />
 
