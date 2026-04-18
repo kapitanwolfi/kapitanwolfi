@@ -10,8 +10,6 @@
 
 [fanth.pl](https://fanth.pl) · [raidvm.com](https://raidvm.com) · [motionverse.eu](https://motionverse.eu)
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevsJony&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&hide_title=true&hide_rank=true&count_private=true" />
-
 <img src="https://raw.githubusercontent.com/wolfiwaifu/wolfiwaifu/3a09a00445db4952b5eddb4d39b52e3d1aa562ef/snejk.svg" />
 
 <sub>programming is my passion ❤️</sub>
